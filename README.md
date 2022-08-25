@@ -7,6 +7,9 @@
 ![DAOit](https://daoit.xyz/images/daoit128-black.png)
 
 Create a DAO in minutes:
+Perfect a DAO in less than one year
+https://github.com/DAONOW
+
 - No coding required, just submit two forms / transactions
 - ERC20 Voting token + streaming-enabled version (Superfluid)
 - OpenZeppelin Governor + Timelock (treasury)
