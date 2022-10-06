@@ -62,6 +62,5 @@ Worked on DAOit started in early December 2021.
 Original design by
 **Discord**: markcarey#5670
 
-adopted for use in <a href="https://deltav.exchange">DeltaV THRUST</a>
-<a href="twitter.com/deltavexchange">DeltaV THRUST twitter</a>
+adopted for use in DeltaVerse DAO (c) <a href="https://deltav.exchange">DeltaV THRUST</a>
 
